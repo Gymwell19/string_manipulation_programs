@@ -12,8 +12,5 @@ def add_zero_number():
     else:
         print("Please enter a number between 0 and 1000.")
 
-# call the function again
+# call the function
 add_zero_number()
-
-
-

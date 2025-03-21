@@ -14,4 +14,3 @@ def word_count():
 
 # call the function
 word_count()
-

@@ -16,4 +16,3 @@ def remove_leading_spaces():
 
 # call the function
 remove_leading_spaces()
-
